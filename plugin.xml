@@ -44,7 +44,7 @@
             <source url="https://cdn.cocoapods.org/"/>
         </config>
         <pods use-frameworks="true">
-            <pod name="razorpay-pod" spec="1.2.5"/>
+            <pod name="razorpay-pod" spec="1.4.7"/>
         </pods>
       </podspec>
       <framework src="CoreTelephony.framework" />
